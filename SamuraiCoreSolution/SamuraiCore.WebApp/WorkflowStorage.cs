@@ -14,7 +14,6 @@ namespace SamuraiCore.WebApp
         #region Ctor
 
         /// <summary>
-        /// Dev URL DefaultEndpointsProtocol=https;AccountName=silverworkflow;AccountKey=e5aU1HoHxBaOO1rW3WwMhz5RPSnWS73voXX6DxmEY0mGFt5JUFZLp5pe7zj1aGdDv191VY+mxRanZwHGQJvLXA==;EndpointSuffix=core.windows.net;
         /// <para>The queue reference must be all lowercase!</para>
         /// </summary>
         public WorkflowStorage(string connectionString, string queueReference, bool isBlob = false)

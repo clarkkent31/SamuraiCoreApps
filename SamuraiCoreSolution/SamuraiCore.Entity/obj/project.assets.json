@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj",
       "projectName": "SamuraiCore.Entity",
-      "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj",
+      "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj",
       "packagesPath": "C:\\Users\\srikeshan.naidoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Entity\\obj\\",
+      "outputPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

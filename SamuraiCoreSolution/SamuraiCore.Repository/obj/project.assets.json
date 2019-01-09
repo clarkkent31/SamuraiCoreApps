@@ -3714,11 +3714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Repository\\SamuraiCore.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Repository\\SamuraiCore.Repository.csproj",
       "projectName": "SamuraiCore.Repository",
-      "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Repository\\SamuraiCore.Repository.csproj",
+      "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Repository\\SamuraiCore.Repository.csproj",
       "packagesPath": "C:\\Users\\srikeshan.naidoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Repository\\obj\\",
+      "outputPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3739,11 +3739,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Data\\SamuraiCore.Data.csproj": {
-              "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Data\\SamuraiCore.Data.csproj"
+            "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Data\\SamuraiCore.Data.csproj": {
+              "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Data\\SamuraiCore.Data.csproj"
             },
-            "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj": {
-              "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj"
+            "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj": {
+              "projectPath": "C:\\Users\\srikeshan.naidoo\\Source\\Repos\\SamuraiCoreApps\\SamuraiCoreSolution\\SamuraiCore.Entity\\SamuraiCore.Entity.csproj"
             }
           }
         }
