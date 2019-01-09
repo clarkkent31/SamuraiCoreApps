@@ -1,0 +1,14 @@
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.AssemblyInfoInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.AssemblyInfo.cs
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.csprojAssemblyReference.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Data.deps.json
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Data.runtimeconfig.json
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Data.runtimeconfig.dev.json
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Data.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Data.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.csproj.CopyComplete
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Data\obj\Debug\netcoreapp2.1\SamuraiCore.Data.pdb

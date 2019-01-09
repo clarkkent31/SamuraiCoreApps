@@ -1,0 +1,14 @@
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Repository.deps.json
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Repository.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.csprojAssemblyReference.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.AssemblyInfoInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.AssemblyInfo.cs
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Repository.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Data.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Data.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.csproj.CopyComplete
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Repository\obj\Debug\netcoreapp2.1\SamuraiCore.Repository.pdb

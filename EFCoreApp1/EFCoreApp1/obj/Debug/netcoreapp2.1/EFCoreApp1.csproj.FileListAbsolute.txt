@@ -1,0 +1,11 @@
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\bin\Debug\netcoreapp2.1\EFCoreApp1.deps.json
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\bin\Debug\netcoreapp2.1\EFCoreApp1.runtimeconfig.json
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\bin\Debug\netcoreapp2.1\EFCoreApp1.runtimeconfig.dev.json
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\bin\Debug\netcoreapp2.1\EFCoreApp1.dll
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.csprojAssemblyReference.cache
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.csproj.CoreCompileInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.AssemblyInfoInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.AssemblyInfo.cs
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\bin\Debug\netcoreapp2.1\EFCoreApp1.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.dll
+C:\Users\srikeshan.naidoo\Source\Repos\EFCoreApp1\EFCoreApp1\obj\Debug\netcoreapp2.1\EFCoreApp1.pdb

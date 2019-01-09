@@ -1,0 +1,9 @@
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.deps.json
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\bin\Debug\netcoreapp2.1\SamuraiCore.Entity.pdb
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.csprojAssemblyReference.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.AssemblyInfoInputs.cache
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.AssemblyInfo.cs
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.dll
+C:\Users\srikeshan.naidoo\Source\Repos\SamuraiCoreSolution\SamuraiCore.Entity\obj\Debug\netcoreapp2.1\SamuraiCore.Entity.pdb
